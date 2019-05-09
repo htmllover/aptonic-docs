@@ -1,4 +1,4 @@
-<img height="50px" src="https://divineitlimited.github.io/hyper-editor/logo.png" />
+<img src="https://htmllover.github.io/aptonic-docs/logo.png" />
 
 ### Welcome
 
