@@ -1,5 +1,5 @@
 ### Logo Setting
-The Logo Container can be found in the Nav Container - `.navbar` on `header` section.
+The Logo can be found in the Nav Container - `.navbar` on `header` section.
 ```html
 <!--start logo-->
 <a class="navbar-brand page-scroll" href="index.html">

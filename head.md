@@ -42,4 +42,4 @@
     <!--endbuild-->
 </head>
 ```
-In this head section you can change **meta description**, **OG title, image, description**, **title**, **favicon** and also **font link**
+In this head section you can change **meta description**, **OG title, image, description**, **title**, **favicon** and also **font link** (if you want to change fonts)
