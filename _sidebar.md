@@ -7,6 +7,7 @@
     - [Template folders](template-folders.md)
     - [Environment Setup](environment.md)
     - [Install & Run local server](install-ruserver.md)
+    - [Run local docs server](run-docs.md)
     - [Production](production.md)
 - Template folder structure 
     - [App folder](app-folder.md)
@@ -21,7 +22,6 @@
      - [Image & Background image](image-background.md)
      - [Header Menu Item](header-menu.md)
      - [Footer](footer.md)
-     - [Hero section](hero-section.md)
      - [Utility Classes](utility-classes.md)
     
 - Customer Support
@@ -32,5 +32,5 @@
     - [CSS & Fonts](css-fonts.md)    
 * Changelog
 
-    * [-1.0.0 Initial Release(19-04-1-2019)](changelog.md)
+    * [-1.0.0 Initial Release](changelog.md)
 

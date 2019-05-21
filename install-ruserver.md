@@ -1,8 +1,8 @@
 ### Install and Run Local Server
 
 After unzip download folder you will get two folder inside it
-- **Aptonic** (This is your project folder)
-- **Documentation**
+- **Aptonic** (This is your template root folder)
+
 
 ```bash
 cd path/Aptonic

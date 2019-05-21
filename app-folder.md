@@ -2,8 +2,6 @@
 
 This section is about the Aptonic File structure. I hope it will help to understand project files.
 
-<img src="https://htmllover.github.io/aptonic-docs/app-folder.jpg"/>
-
 ```text
 Aptonic
     |-- app
@@ -21,6 +19,9 @@ Aptonic
     |-- package-lock.json
 ```
 
+
+
+<img src="https://htmllover.github.io/aptonic-docs/app-folder.jpg"/>
 
 #### css folder
 

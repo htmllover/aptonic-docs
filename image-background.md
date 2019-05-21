@@ -2,7 +2,8 @@
 
 **Aptonic** download package does not contain images which are there in our online demo. We are using placeholder images instead of real images. You will see the image code as mentioned below. You can replace placeholder image url with your image url like `img/your-image.jpg` or `img/your-image.svg` or `img/your-image.png`
 
-
+*We only included SVG images from [Undraw](https://undraw.co/illustrations) . it's Open-source illustrations for every project you can imagine and create.
+Created by -[ Katerina Limpitsouni](https://twitter.com/ninalimpi)*
 #### for image
 ```html
 <img src="your image path" alt="image alt text" class="img-fluid">

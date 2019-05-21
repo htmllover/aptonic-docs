@@ -1,5 +1,3 @@
 ### Change Log
 
-
-
-Upcoming
+-- 1.0.0 Initial Release
