@@ -10,11 +10,11 @@ Created by -[ Katerina Limpitsouni](https://twitter.com/ninalimpi)*
 ```
 
 #### for background image
-When you use background image then you should follow bellow structure `.bg-image` need to call on parent `div` and use `image-overlay` with value. This image overlay value mean the background image overlay opacity color. You can use 1 to 9 for different opacity value. For gradient overlay use this `image-overlay-gradient` 
-and we have two different overlay `image-overly-top`, `image-overly-bottom`. In child `div` use this `.background-image-wraper` class and inline style for background image location path. 
+When you use background image then you should follow bellow structure `.bg-image` need to call on parent `div` and use `data-overlay` with value. This image overlay value mean the background image overlay opacity color. You can use 1 to 9 for different opacity value. For gradient overlay use this `data-overlay-gradient` 
+and we have two different overlay `data-overly-top`, `data-overly-bottom`. In child `div` use this `.background-image-wraper` class and inline style for background image location path. 
 
 ```html
-<section id="download" class="bg-image" image-overlay-gradient="8">
+<section id="download" class="bg-image" data-overlay-gradient="8">
     <div class="background-image-wraper" style="background: url('img/download-bg.jpg'); opacity: 1;"></div>
     <div class="container">
         <div class="row">
