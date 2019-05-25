@@ -23,6 +23,7 @@
      - [Header Menu Item](header-menu.md)
      - [Footer](footer.md)
      - [Utility Classes](utility-classes.md)
+     - [Ajax Contact Form](contact-form.md)
     
 - Customer Support
     - [Support](support.md)
@@ -33,4 +34,5 @@
 * Changelog
 
     * [-1.0.0 Initial Release](changelog.md)
+    * [-1.0.1 Contact Form & CSS issue](changelog.md)
 
